@@ -1,0 +1,29 @@
+http://127.0.0.1:5000/api/predict_attrition/
+
+POST
+
+{
+	"employee_info": {
+		"Age": 40,
+		"Gender": "Male",
+		"MaritalStatus": "Single",
+		"Education": 1,
+		"EducationField": "Marketing",
+		"WorkLifeBalance": 2,
+		"Department": "Sales",
+		"EnvironmentSatisfaction": 1,
+		"JobSatisfaction": 1,
+		"OverTime": "Yes",
+		"JobLevel": 2,
+		"JobInvolvement": 2,
+		"PerformanceRating": 3,
+		"TrainingTimesLastYear": 1,
+		"BusinessTravel": "Travel_Rarely",
+		"MonthlyIncome": 4555,
+		"PercentSalaryHike": 11,
+		"DistanceFromHome": 15,
+		"NumCompaniesWorked": 2,
+		"TotalWorkingYears": 7,
+		"YearsWithCurrManager": 3
+	}
+}
