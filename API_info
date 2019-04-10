@@ -27,3 +27,30 @@ POST
 		"YearsWithCurrManager": 3
 	}
 }
+
+
+{
+	"employee_info": {
+		"Age": 39,
+		"Gender": "Male",
+		"MaritalStatus": "Single",
+		"Education": 1,
+		"EducationField": "Marketing",
+		"WorkLifeBalance": 1,
+		"Department": "Sales",
+		"EnvironmentSatisfaction": 4,
+		"JobSatisfaction": 1,
+		"OverTime": "No",
+		"JobLevel": 2,
+		"JobInvolvement": 2,
+		"PerformanceRating": 3,
+		"TrainingTimesLastYear": 1,
+		"BusinessTravel": "Travel_Frequently",
+		"MonthlyIncome": 2500,
+		"PercentSalaryHike": 11,
+		"DistanceFromHome": 1,
+		"NumCompaniesWorked": 0,
+		"TotalWorkingYears": 7,
+		"YearsWithCurrManager": 4
+	}
+}
